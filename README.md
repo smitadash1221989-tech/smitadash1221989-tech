@@ -128,7 +128,7 @@ Demonstrates
 
 ## ⚙ Jenkins CI Pipeline
 
-Automated Playwright execution using Jenkins.
+Automated Playwright execution using Jenkins.(inprogress)
 
 Includes
 
@@ -140,7 +140,7 @@ Includes
 
 ---
 
-## 📘 Playwright Interview Questions
+## 📘 Playwright Interview Questions(inprogress practicing)
 
 A growing collection of
 
@@ -152,7 +152,7 @@ A growing collection of
 
 ---
 
-## 💻 JavaScript Coding Practice
+## 💻 JavaScript Coding Practice(inprogress,learning and updating)
 
 Repository containing
 
@@ -212,11 +212,10 @@ Reusable utilities including
 
 ⬜ Docker
 
-⬜ AWS
-
-⬜ Performance Testing
-
 ⬜ AI for Test Automation
+
+⬜Cloud Testing
+
 
 ---
 
