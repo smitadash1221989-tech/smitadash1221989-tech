@@ -210,7 +210,7 @@ Reusable utilities including
 
 ⬜ GitHub Actions
 
-⬜ Docker
+⬜ Azure DevOps
 
 ⬜ AI for Test Automation
 
